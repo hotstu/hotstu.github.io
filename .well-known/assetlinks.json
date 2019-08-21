@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "github.hotstu.demo.navigation",
+    "sha256_cert_fingerprints":
+    ["0C:C7:32:0D:94:9E:39:4E:D6:90:05:A0:6D:26:94:06:EA:74:7B:EA:B1:B2:E5:8E:B5:4F:17:C8:98:13:C1:51"]
+  }
+}]
